@@ -49,6 +49,14 @@
 | `]]]` | Siguiente referencia |
 | `[[[` | Referencia anterior |
 
+### Navegación Centrada
+| Tecla | Descripción |
+|-------|-------------|
+| `<Ctrl-d>` | Media página abajo (centrado) |
+| `<Ctrl-u>` | Media página arriba (centrado) |
+| `n` | Siguiente búsqueda (centrado) |
+| `N` | Búsqueda anterior (centrado) |
+
 ---
 
 ## 🪟 GESTIÓN DE VENTANAS
