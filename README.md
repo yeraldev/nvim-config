@@ -236,7 +236,7 @@ Esta configuración está optimizada para:
 
 ## 📝 Licencia
 
-Este proyecto está bajo la licencia MIT. Ver `LICENSE` para más detalles.
+Este proyecto está bajo la licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
 
 ## 🙏 Agradecimientos
 
