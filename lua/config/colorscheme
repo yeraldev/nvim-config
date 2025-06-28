@@ -1,0 +1,9 @@
+  return {
+    "folke/tokyonight.nvim",
+    lazy = false, -- Cargar siempre al inicio
+    priority = 1000, -- Asegurarse de que se cargue primero
+    config = function()
+      -- Cargar el tema de colores
+      vim.cmd.colorscheme("tokyonight")
+    end,
+  }
